@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerTwo
+  - PlayerThree
+  - Purple
+  - Red
+  - Pedestal1
+  - Pedestal2
+  - Pedestal3
+  - Pedestal4
+  - Pedestal5
+  - Pedestal6
+  - Bird1
+  - Bird2
+  - Bird3
+  - Bird4
+  - Bird5
+  - Bird6
+  - Pedestal10
+  - Pedestal11
+  - Pedestal12
+  - Pedestal13
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - PP
+  - Bird
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
